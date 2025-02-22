@@ -1,5 +1,7 @@
 #StudentSync
 
+Please consider Subscribing to my YouTube channel to see more code like this.
+
 StudentSync is a productivity app designed to help students manage their tasks, assignments, and quizzes effectively. It offers a to-do list feature, a quiz system, and other useful functionalities aimed at streamlining students' academic lives. Below is a breakdown of the app's features and structure.
 
 ## Features:
